@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Li-Li Chen
-- 👀 I’m interested in data analysis, datapipeline and automation
-- 🌱 I’m currently learning React.js.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software development, data pipeline and automation
 - 📫 reach my Linkein: https://www.linkedin.com/in/lilichenprofile/
 
 <!---
